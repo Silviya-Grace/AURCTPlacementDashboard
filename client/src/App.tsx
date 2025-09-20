@@ -1,8 +1,8 @@
-
+import LoginPage from "./pages/loginPage/LoginPage"
 function App() {
 
     return (
-        <div>AURCT Placement</div>
+        <LoginPage />
     )
 }
 
