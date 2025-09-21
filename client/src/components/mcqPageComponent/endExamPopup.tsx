@@ -1,6 +1,6 @@
 
 
-function App() {
+function EndExamPopup() {
   return (
     <div className="fixed inset-0 bg-black/50 flex justify-center items-center">
       <div className="bg-white w-[420px] rounded-2xl px-6 py-8 shadow-[0_12px_25px_rgba(0,0,0,0.2)] text-center animate-slide-up">
@@ -38,4 +38,4 @@ function App() {
     </div>
   );
 };
-export default App;
+export default EndExamPopup;
